@@ -1,0 +1,14 @@
+
+    
+    .inputrequeridos{
+        margin-bottom: 10px !important;
+        background-color: beige;
+    }
+    .inputnorequeridos {
+        margin-bottom: 10px;
+        background-color:indianred;
+    }
+    #inpCedula{
+        background-color: limegreen;
+    }
+    
